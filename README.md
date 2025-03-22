@@ -1,6 +1,6 @@
 # Portfolio de Enzo MOREAU
 
-Étudiant en Licence Informatique | Passionné par le génie logiciel, la cybersécurité et l'algorithmique
+Étudiant en Licence Informatique | Passionné par le développement logiciel, le génie logiciel, la gestion de bases de données et la création de jeux vidéo
 
 ---
 
