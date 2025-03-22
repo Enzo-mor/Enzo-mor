@@ -1,16 +1,35 @@
-## Hi there 👋
+# Portfolio de [Enzo MOREAU]
 
-<!--
-**Enzo-mor/Enzo-mor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Licence Informatique | Passionné par le génie logiciel, la cybersécurité et l'algorithmique
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+- **Langages** : C, Java, Python, SQL
+- **Modélisation et génie logiciel** : Conception de systèmes, développement orienté objet, gestion de projets informatiques
+- **Cybersécurité** : Analyse des vulnérabilités, cryptographie
+- **Technologies web** : HTML, CSS, JavaScript, Node.js
+
+---
+
+## Projets Notables
+
+### 1. **Jeu en C - The Last Nightmare** 🎮
+Un jeu RPG roguelite en tour par tour créé avec la bibliothèque SDL2. Le jeu permet à l'utilisateur d'explorer des donjons générés de manière procédurale tout en affrontant des ennemis et en améliorant son personnage.
+
+- **Technologies** : C, SDL2, Algorithmique
+
+### 2. **Site web de recherche de recettes - Pot-o-matic** 🍲
+Un site web permettant aux utilisateurs de rechercher des recettes en fonction des ingrédients disponibles dans leur frigo. Il offre également des suggestions de recettes adaptées en fonction des préférences de l'utilisateur.
+
+- **Technologies** : HTML, CSS, JavaScript, Node.js
+
+### 3. **Jeu de sudoku avec système d'aide - Sudo-Help** 🧩
+Un jeu de sudoku réalisé en Java et JavaFX avec un système d'aide complet basé sur les différentes techniques du sudoku. Le jeu possède un mode apprentissage pour découvrir les techniques et des grilles classiques à résoudre.
+
+- **Technologies** : Java, JavaFX
+
+---
+
+Merci d'avoir visité mon portfolio !  
