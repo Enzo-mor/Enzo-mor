@@ -8,7 +8,6 @@
 
 - **Langages** : C, Java, Python, SQL
 - **Modélisation et génie logiciel** : Conception de systèmes, développement orienté objet, gestion de projets informatiques
-- **Cybersécurité** : Analyse des vulnérabilités, cryptographie
 - **Technologies web** : HTML, CSS, JavaScript, Node.js
 
 ---
