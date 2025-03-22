@@ -19,7 +19,7 @@ Un jeu RPG roguelite en tour par tour créé avec la bibliothèque SDL2. Le jeu 
 
 - **Technologies** : C, SDL2, Algorithmique
 
-### 2. [**Site web de recherche de recettes - Pot-o-matic** 🍲](https://github.com/Emma-Rsn/The-Last-Nightmare)
+### 2. [**Site web de recherche de recettes - Pot-o-matic** 🍲](https://github.com/Enzo-mor/Pot-o-matic)
 Un site web permettant aux utilisateurs de rechercher des recettes en fonction des ingrédients disponibles dans leur frigo. Il offre également des suggestions de recettes adaptées en fonction des préférences de l'utilisateur.
 
 - **Technologies** : HTML, CSS, JavaScript, Node.js
