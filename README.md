@@ -1,4 +1,4 @@
-# Portfolio de Enzo MOREAU
+de# Portfolio de Enzo MOREAU
 
 Étudiant en Licence Informatique | Passionné par le développement logiciel, le génie logiciel, la gestion de bases de données et la création de jeux vidéo
 
@@ -29,7 +29,7 @@ Un jeu de sudoku réalisé en Java et JavaFX avec un système d'aide complet bas
 
 - **Technologies** : Java, JavaFX
 
-- ### 4. [**Jeu de sudoku avec système d'aide - Sudo-Help** ](https://github.com/Enzo-mor/Sudo-help)
+- ### 4. [**Visualiseur de génération procédurale de cartes - RogueMapVisualizer** ](https://github.com/Enzo-mor/RogueMapVisualizer)
 Un outil de visualisation développé en C# et WPF permettant de générer des cartes procédurales de type roguelike.
 
 - **Technologies** : C#, WPF
